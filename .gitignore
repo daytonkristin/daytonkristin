@@ -1,0 +1,17 @@
+# Identity & Security
+.env
+.ssh/
+tokens.js
+.git-credentials
+.clasprc.json
+.coinbase
+
+# System Clutter
+.DS_Store
+.bash_history
+.cache/
+node_modules/
+
+# Logs and Temp
+*.log
+.swp
