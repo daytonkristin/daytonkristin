@@ -15,8 +15,10 @@ NODE_02: Vertex AI // Secure Auditing
 NODE_03: Systemic Resilience Architecture
 ```
 
-### 📊 DATA_STREAMS
-![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=transparent&title_color=d98471&icon_color=d98471&text_color=1a2639&hide_border=true)
+### 📊 SYSTEM VITAL SIGNS
+![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=transparent&title_color=d98471&icon_color=d98471&text_color=1a2639&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daytonkristin&layout=compact&theme=transparent&title_color=d98471&text_color=1a2639&hide_border=true&card_width=400)
 
 ---
 
