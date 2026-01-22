@@ -1,26 +1,28 @@
 <div align="left">
 
 # KRISTIN DAYTON
-**FOUNDER @STEADYPATHPAY | SYSTEM ARCHITECT**
+**SYSTEM ARCHITECT // FOUNDER @STEADYPATHPAY**
 
 ---
 
-### 🛡️ THE PERSPECTIVE
-> "I build systems that account for the reality of the human experience. Transparency and accountability are the floor of human progress, ensuring a single misstep doesn't become a permanent barrier."
+### 🛡️ INSTITUTIONAL MISSION
+> "I build systems that account for the reality of the human experience. Transparency and accountability are the floor of human progress."
 
-### 🚀 TECHNICAL DISCIPLINE
-| CORE SYSTEM | SPECIFICATION |
-| :--- | :--- |
-| **INFRASTRUCTURE** | Google Cloud Platform (GCP) |
-| **INTELLIGENCE** | Vertex AI // Secure Auditing |
-| **PHILOSOPHY** | Systemic Course-Correction |
+### ⚙️ CORE INFRASTRUCTURE
+* **COMPUTE** ➔ `Google Cloud Platform (GCP)`
+* **NEURAL** ➔ `Vertex AI // Secure Auditing`
+* **ENGINE** ➔ `Systemic Resilience Architecture`
 
 ### 📊 SYSTEM VITAL SIGNS
-![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=calm&title_color=b06d72&icon_color=2d4263&text_color=2d4263&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=nord&title_color=b06d72&icon_color=2d4263&text_color=2d4263&hide_border=true&rank_icon=github&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daytonkristin&layout=compact&theme=nord&title_color=b06d72&text_color=2d4263&hide_border=true)
 
 ---
 
-**[LINKEDIN](https://linkedin.com) | [STEADYPATH PAY](https://github.com/daytonkristin/steadypath-alpha) | [IDENTITY HUB](https://github.com/daytonkristin)**
+### 🌐 CONNECTED NODES
+**[ LINKEDIN ]** | **[ STEADYPATH PAY ]** | **[ DEV_PORTFOLIO ]**
 
-<sub>Location: Portland, OR | System Status: Active</sub>
+<div align="right">
+<sub>**STATUS:** OPERATIONAL // **LOC:** PORTLAND, OR</sub>
+</div>
 </div>
