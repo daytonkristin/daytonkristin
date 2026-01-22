@@ -1,18 +1,20 @@
 <div align="left">
 
-# 🛰️ SYSTEM ARCHITECT: KRISTIN DAYTON
-**FOUNDER @STEADYPATHPAY**
+# 🛰️ KRISTIN DAYTON
+**SYSTEM ARCHITECT // FOUNDER @STEADYPATHPAY**
 
 ---
 
 ### 🛡️ THE PERSPECTIVE
-> **"I build systems that account for the reality of the human experience. Transparency and accountability are the floor of human progress."**
+> "I build systems that account for the reality of the human experience. Transparency and accountability are the floor of human progress."
 
 ### ⚙️ SYSTEM SPECIFICATIONS
 ```text
+____________________________________________________
 NODE_01: Google Cloud Platform (GCP)
 NODE_02: Vertex AI // Secure Auditing
 NODE_03: Systemic Course-Correction
+____________________________________________________
 ```
 
 ### 📊 DATA_STREAMS
@@ -24,6 +26,6 @@ NODE_03: Systemic Course-Correction
 **[ LINKEDIN ]** ➔ **[ STEADYPATH PAY ]** ➔ **[ HUB ]**
 
 <div align="right">
-<sub>**IDENTITY_HUB_V1.1** // PORTLAND, OR</sub>
+<sub>**IDENTITY_HUB_V1.2** // PORTLAND, OR</sub>
 </div>
 </div>
