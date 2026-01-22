@@ -1,33 +1,27 @@
 <div align="left">
 
-# 🛰️ KRISTIN DAYTON
-**SYSTEM ARCHITECT // FOUNDER @STEADYPATHPAY**
+# ⚙️ STEADYPATH PAY: SYSTEMIC RESILIENCE
+**PRODUCT ARCHITECTURE // FINANCIAL INFRASTRUCTURE**
 
 ---
 
-### 🛡️ THE PERSPECTIVE
-> **"Engineering the 'Undo' into financial architecture. Transparency and accountability are the floor of human progress."**
+### 🛡️ THE MISSION
+> "Building the 'Undo' button into the global financial layer. We engineer systems that survive human error, rather than punish it."
 
-### ⚙️ SYSTEM SPECIFICATIONS
+### 🛠️ ARCHITECTURAL STACK
+* **COMPUTE:** Google Cloud Platform (GCP)
+* **INTELLIGENCE:** Vertex AI // Transaction Auditing
+* **RESILIENCE:** Automated Course-Correction Protocols
+
+### 📊 LOGIC FLOW
 ```text
-NODE_01: Google Cloud Platform (GCP)
-NODE_02: Vertex AI // Secure Auditing
-NODE_03: Systemic Resilience Architecture
+[ TRANSACTION ] ➔ [ AUDIT NODE ] ➔ [ VALIDATION ]
+                         ⬇️
+                 [ HUMAN ERROR DETECTED ] ➔ [ AUTO-CORRECT ]
 ```
 
-### 📂 ACTIVE DEPLOYMENTS
-* **[STEADYPATH_PAY](https://github.com/daytonkristin/steadypath-pay)** ➔ *Resilient financial nodes.*
-* **[IDENTITY_HUB](https://github.com/daytonkristin/daytonkristin)** ➔ *Architectural core.*
-
-### 📊 DATA_STREAMS
-![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=transparent&title_color=d98471&icon_color=d98471&text_color=1a2639&hide_border=true&count_private=true)
-
 ---
-
-### 🔗 EXTERNAL NODES
-**[ LINKEDIN ]** ➔ **[ STEADYPATH PAY ]** ➔ **[ HUB ]**
-
 <div align="right">
-<sub>**IDENTITY_V1.4** // PORTLAND, OR // 45.5152° N, 122.6784° W</sub>
+<sub>**ENGR_SPEC_V1.0** // STEADYPATH PAY</sub>
 </div>
 </div>
