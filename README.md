@@ -15,10 +15,12 @@ NODE_02: Vertex AI // Secure Auditing
 NODE_03: Systemic Resilience Architecture
 ```
 
+### 📂 CORE DEPLOYMENTS
+* **[STEADYPATH_PAY](https://github.com/daytonkristin/steadypath-pay)** ➔ *Financial architecture with systemic course-correction.*
+* **[IDENTITY_HUB](https://github.com/daytonkristin/daytonkristin)** ➔ *The central node for architectural identity.*
+
 ### 📊 SYSTEM VITAL SIGNS
 ![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=transparent&title_color=d98471&icon_color=d98471&text_color=1a2639&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daytonkristin&layout=compact&theme=transparent&title_color=d98471&text_color=1a2639&hide_border=true&card_width=400)
 
 ---
 
