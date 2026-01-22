@@ -1,12 +1,12 @@
-# Hi, I'm Kristin Dayton 👋
+# Kristin Dayton | Founder @SteadyPathPay 👋
 
-### Founder @SteadyPathPay | Developing Secure AI Infrastructure
+Product Manager developing secure, AI-audited financial infrastructure.
 
-I am focused on building high-fidelity financial transaction systems and AI-audited infrastructure. My current work involves GCP, Vertex AI, and secure cloud orchestration.
-
-- 🛠 **Currently working on:** [SteadyPath Alpha](https://github.com/daytonkristin/steadypath-alpha)
-- 🌐 **Website:** [daytonkristin.is-a.dev](https://daytonkristin.github.io)
-- 🔒 **Contact:** [daytonkristin@duck.com](mailto:daytonkristin@duck.com)
+### 🛠 Tech Stack
+- **Infrastructure:** GCP & Vertex AI
+- **Project:** [SteadyPath Alpha](https://github.com/daytonkristin/steadypath-alpha)
+- **Domain:** [daytonkristin.is-a.dev](https://daytonkristin.github.io)
 
 ---
-*“Bridging the gap between complex transaction logic and scalable AI infrastructure.”*
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=tokyonight&hide_border=true)
