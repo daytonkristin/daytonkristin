@@ -1,27 +1,35 @@
-<div align="left">
+# Security Researcher | Bug Bounty
 
-# ⚙️ STEADYPATH PAY: SYSTEMIC RESILIENCE
-**PRODUCT ARCHITECTURE // FINANCIAL INFRASTRUCTURE**
+Independent security researcher focused on identifying and responsibly disclosing high-impact vulnerabilities in web applications and APIs. Emphasis on real-world exploitability, clear proof-of-concept, and actionable remediation guidance.
+
+---
+
+## Credentials
+
+<!-- Bugcrowd Certified Researcher badge (Credly) -->
+[![Bugcrowd Certified Researcher](https://images.credly.com/size/220x220/images/6a3e6a9b-7c64-4b1a-bb6e-9b6b0f6b6c6a.png)](https://www.credly.com/badges/2f0a2767-71be-4e9b-9b42-071145edd3ac/public_url)
+
+<!-- (ISC)² Candidate badge -->
+![ISC2 Candidate](./assets/isc2-candidate.png)
 
 ---
 
-### 🛡️ THE MISSION
-> "Building the 'Undo' button into the global financial layer. We engineer systems that survive human error, rather than punish it."
-
-### 🛠️ ARCHITECTURAL STACK
-* **COMPUTE:** Google Cloud Platform (GCP)
-* **INTELLIGENCE:** Vertex AI // Transaction Auditing
-* **RESILIENCE:** Automated Course-Correction Protocols
-
-### 📊 LOGIC FLOW
-```text
-[ TRANSACTION ] ➔ [ AUDIT NODE ] ➔ [ VALIDATION ]
-                         ⬇️
-                 [ HUMAN ERROR DETECTED ] ➔ [ AUTO-CORRECT ]
-```
+## Focus Areas
+- Web application security
+- API security testing
+- Authentication & authorization flaws
+- Business logic vulnerabilities
+- OWASP Top 10–aligned testing
 
 ---
-<div align="right">
-<sub>**ENGR_SPEC_V1.0** // STEADYPATH PAY</sub>
-</div>
-</div>
+
+## Methodology
+- Manual testing supported by targeted automation
+- Attack-surface enumeration and threat modeling
+- Reproducible PoC with clear impact assessment
+- Reports written for engineering and security teams
+
+---
+
+## Disclosure
+All findings are reported responsibly and in accordance with program rules and coordinated disclosure practices.
