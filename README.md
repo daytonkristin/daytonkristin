@@ -1,4 +1,4 @@
-# Security Researcher | Bug Bounty
+#~ Security Researcher | Bug Bounty~
 
 ---
 
