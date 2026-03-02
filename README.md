@@ -1,13 +1,8 @@
 # Security Researcher | Bug Bounty
 
-# AV-Sec Architect
-### Automated RMF Compliance for Audiovisual Systems
-
 ---
 
 ## Project Overview
-AV-Sec Architect is a **Compliance-as-Code** framework designed to automate the **NIST 800-53 Rev 5.2** Risk Management Framework (RMF) for cloud-integrated audiovisual infrastructure.
-
 ---
 
 ## Core Development Partnership
