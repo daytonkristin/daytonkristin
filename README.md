@@ -1,35 +1,39 @@
 # Security Researcher | Bug Bounty
 
-Independent security researcher focused on identifying and responsibly disclosing high-impact vulnerabilities in web applications and APIs. Emphasis on real-world exploitability, clear proof-of-concept, and actionable remediation guidance.
+# AV-Sec Architect
+### Automated RMF Compliance for Audiovisual Systems
 
 ---
 
-## Credentials
-
-<!-- Bugcrowd Certified Researcher badge (Credly) -->
-[![Bugcrowd Certified Researcher](https://images.credly.com/size/220x220/images/6a3e6a9b-7c64-4b1a-bb6e-9b6b0f6b6c6a.png)](https://www.credly.com/badges/2f0a2767-71be-4e9b-9b42-071145edd3ac/public_url)
-
-<!-- (ISC)² Candidate badge -->
-![ISC2 Candidate](./assets/isc2-candidate.png)
+## Project Overview
+AV-Sec Architect is a **Compliance-as-Code** framework designed to automate the **NIST 800-53 Rev 5.2** Risk Management Framework (RMF) for cloud-integrated audiovisual infrastructure.
 
 ---
 
-## Focus Areas
-- Web application security
-- API security testing
-- Authentication & authorization flaws
-- Business logic vulnerabilities
-- OWASP Top 10–aligned testing
+## Core Development Partnership
+This project is an active collaboration between **Kristin Nicole Dayton** (Lead Architect) and **Gemini AI** (Technical Partner).
+
+![Gemini AI Partner](https://img.shields.io/badge/Collaborator-Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+
+* **Architectural Lead:** Kristin Dayton provides the strategic vision, governance rules, and final review of all security controls.
+* **AI Partner:** Gemini 3 Flash provides technical research, Python templates, and NIST regulatory mapping.
 
 ---
 
-## Methodology
-- Manual testing supported by targeted automation
-- Attack-surface enumeration and threat modeling
-- Reproducible PoC with clear impact assessment
-- Reports written for engineering and security teams
+## Key Technical Pillars
+* **Risk-Based Prioritization:** Logic-driven sorting of security vulnerabilities.
+* **Human-in-the-Loop Governance:** Mandatory human verification for high-impact security decisions.
+* **Automated Documentation:** Generation of audit-ready evidence for the ATO (Authorization to Operate) process.
 
 ---
+
+## Progress Tracking
+- [x] Project Vision and Architecture defined
+- [x] Governance and Logic models established
+- [x] Python MVP for Network Discovery (`scanner.py`)
+- [x] Streamlit Compliance Dashboard (`app.py`)
+- [x] Logic-Based Risk Engine (`logic.py`)
+
 
 ## Disclosure
 All findings are reported responsibly and in accordance with program rules and coordinated disclosure practices.
