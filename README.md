@@ -1,9 +1,9 @@
 # Security Researcher | Bug Bounty
 
 ------------------------------
-## Integrity 
-it's the hardest thing to keep
- and the easiest thing to lose
+- ## Integrity 
+- it's the hardest thing to keep
+-  and the easiest thing to lose
 
         - James Michael Maher
 ----------------------------
