@@ -1,9 +1,11 @@
-#~ Security Researcher | Bug Bounty~
+# Security Researcher | Bug Bounty
 
----
-
-## Project Overview
----
+------------------------------
+//Integrity 
+it's the hardest thing to keep
+and the easiest thing to lose.
+           James Michael Maher
+----------------------------
 
 ## Core Development Partnership
 This project is an active collaboration between **Kristin Nicole Dayton** (Lead Architect) and **Gemini AI** (Technical Partner).
