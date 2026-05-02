@@ -17,6 +17,8 @@ My work focuses on three things:
 - Automating compliance so it's not a bottleneck
 - Building AI that explains its decisions and can be corrected
 
+🔧 **Currently building:** SteadyPathPay — transaction safety layer with Vertex AI risk scoring and institutional yield waterfall.
+
 ---
 
 ## Projects
@@ -44,6 +46,10 @@ Every project I build has a human override, a decision log, and a clear failure 
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daytonkristin&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+
 ## Let's connect
 
-📧 kristin.steadypath@gmail.com
+📧 [kristin.steadypath@gmail.com](mailto:kristin.steadypath@gmail.com)
