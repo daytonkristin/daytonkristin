@@ -2,6 +2,7 @@
 
 **Security Architect · AI Builder · FinTech Innovator**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daytonkristin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daytonkristin)
 [![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate-006E51?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Member-Verification)
 [![Wealth AI](https://img.shields.io/badge/Wealth_AI-Alpha-FFD700?style=flat-square)](https://github.com/daytonkristin/Wealth-AI)
 [![AV-Sec Architect](https://img.shields.io/badge/AV--Sec_Architect-Live-00B4D8?style=flat-square)](https://github.com/daytonkristin/kristindayton-main-dev)
