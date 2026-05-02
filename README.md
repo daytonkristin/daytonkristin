@@ -1,58 +1,48 @@
 # Kristin Nicole Dayton
 
+**Security Architect · AI Builder · FinTech Innovator**
+
 [![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate-006E51?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Member-Verification)
-![Gemini AI Partner](https://img.shields.io/badge/Collaborator-Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+[![Wealth AI](https://img.shields.io/badge/Wealth_AI-Alpha-FFD700?style=flat-square)](https://github.com/daytonkristin/Wealth-AI)
+[![AV-Sec Architect](https://img.shields.io/badge/AV--Sec_Architect-Live-00B4D8?style=flat-square)](https://github.com/daytonkristin/kristindayton-main-dev)
+[![gem-platform](https://img.shields.io/badge/gem--platform-Open_Source-8E75B2?style=flat-square)](https://github.com/daytonkristin/gem-platform)
 
 ---
 
-## Core Development Partnership
+I build systems where **security, AI, and finance intersect** — with human oversight at every critical decision point.
 
-This portfolio is an active collaboration between **Kristin Nicole Dayton** (Lead Architect) and **Gemini AI** (Technical Partner).
-
-* **Architectural Lead:** Kristin Dayton provides the strategic vision, governance rules, and final review of all security controls.
-* **AI Partner:** Gemini AI provides technical research, Python templates, and NIST regulatory mapping.
-
----
-
-## Featured Project: SteadyPathPay Alpha 🛡️
-
-**Institutional-Grade Human-Error Mitigation for Digital Finance**
-
-SteadyPathPay is a safety layer for high-velocity digital asset management, designed to eliminate "Fat Finger" errors and automated yield leakage.
-
-**Product Pillars**
-* **30-Minute Reversal Shield:** Programmable latency window for transaction reversal before finality.
-* **Institutional Yield Waterfall:** Automated 60/25/15 revenue splitting (Yield / Security Fund / Ops).
-* **Vertex AI Integration:** Risk-scoring for outbound transactions.
-
-**Technical Stack**
-* **Runtime:** Google Cloud Run (Serverless)
-* **Intelligence:** Gemini 1.5 Pro via Vertex AI
-* **Security:** AES-256 encrypted vaulting for service account keys.
+My work focuses on three things:
+- Making high-stakes financial transactions safer
+- Automating compliance so it's not a bottleneck
+- Building AI that explains its decisions and can be corrected
 
 ---
 
-## Key Technical Pillars
+## Projects
 
-* **Risk-Based Prioritization:** Logic-driven sorting of security vulnerabilities.
-* **Human-in-the-Loop Governance:** Mandatory human verification for high-impact security decisions.
-* **Automated Documentation:** Generation of audit-ready evidence for the ATO (Authorization to Operate) process.
+### 🛡️ [AV-Sec Architect](https://github.com/daytonkristin/kristindayton-main-dev)
+NIST RMF compliance dashboard for audiovisual infrastructure. Scores AV devices against 800-53 controls, surfaces remediation steps, exports audit-ready reports.
+`Python` `Streamlit` `NIST RMF` `nmap`
 
----
+### 💰 [Wealth AI](https://github.com/daytonkristin/Wealth-AI)
+Parent infrastructure for financial alpha modules. Includes SteadyPathPay — a 30-minute reversal shield and institutional yield waterfall for digital asset management.
+`Python` `Vertex AI` `Google Cloud Run` `AES-256`
 
-## Progress Tracking
-
-- [x] Project Vision and Architecture defined
-- [x] Governance and Logic models established
-- [x] Python MVP for Network Discovery (`scanner.py`)
-- [x] Streamlit Compliance Dashboard (`app.py`)
-- [x] Logic-Based Risk Engine (`logic.py`)
-- [x] SteadyPathPay Alpha — architecture and product pillars defined
+### 🤖 [gem-platform](https://github.com/daytonkristin/gem-platform)
+Self-improving ML routing system. Routes requests to fast or safe models using a confidence scorer + RL policy that updates its own thresholds after every decision.
+`Python` `FastAPI` `Kafka` `Prometheus` `Kubernetes`
 
 ---
 
-## Disclosure
+## What I believe
 
-All findings are reported responsibly and in accordance with program rules and coordinated disclosure practices.
+> Systems that can't be audited can't be trusted.
+> Systems that can't be corrected shouldn't be autonomous.
 
-**For inquiries:** kristin.steadypath@gmail.com
+Every project I build has a human override, a decision log, and a clear failure mode.
+
+---
+
+## Let's connect
+
+📧 kristin.steadypath@gmail.com
