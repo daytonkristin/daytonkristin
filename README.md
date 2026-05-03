@@ -1,34 +1,55 @@
 # Kristin Nicole Dayton
-
-**Security Architect · AI Builder · FinTech Innovator**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daytonkristin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daytonkristin)
-[![ISC2 Candidate](https://img.shields.io/badge/ISC2-Candidate-006E51?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Member-Verification)
-[![Wealth AI](https://img.shields.io/badge/Wealth_AI-Alpha-FFD700?style=flat-square)](https://github.com/daytonkristin/Wealth-AI)
-[![AV-Sec Architect](https://img.shields.io/badge/AV--Sec_Architect-Live-00B4D8?style=flat-square)](https://github.com/daytonkristin/kristindayton-main-dev)
-[![gem-platform](https://img.shields.io/badge/gem--platform-Open_Source-8E75B2?style=flat-square)](https://github.com/daytonkristin/gem-platform)
+[![ISC2 Candidate](./assets/isc2-candidate.png)](https://www.isc2.org/Member-Verification)
 
 ---
 
-I build systems where **security, AI, and finance intersect** — with human oversight at every critical decision point.
+## Core Development Partnership
+This portfolio is an active collaboration between **Kristin Nicole Dayton** (Lead Architect) and **Gemini AI** (Technical Partner).
 
-My work focuses on three things:
-- Making high-stakes financial transactions safer
-- Automating compliance so it's not a bottleneck
-- Building AI that explains its decisions and can be corrected
+![Gemini AI Partner](https://img.shields.io/badge/Collaborator-Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 
-🔧 **Currently building:** SteadyPathPay — transaction safety layer with Vertex AI risk scoring and institutional yield waterfall.
+* **Architectural Lead:** Kristin Dayton provides the strategic vision, governance rules, and final review of all security controls.
+* **AI Partner:** Gemini 3 Flash provides technical research, Python templates, and NIST regulatory mapping.
 
 ---
 
-## Projects
+## Featured Project: SteadyPathPay Alpha 🛡️
+**Institutional-Grade Human-Error Mitigation for Digital Finance**
 
-### 🛡️ [AV-Sec Architect](https://github.com/daytonkristin/kristindayton-main-dev)
-NIST RMF compliance dashboard for audiovisual infrastructure. Scores AV devices against 800-53 controls, surfaces remediation steps, exports audit-ready reports.
-`Python` `Streamlit` `NIST RMF` `nmap`
+SteadyPathPay is a safety layer for high-velocity digital asset management, specifically designed to eliminate "Fat Finger" errors and automated yield leakage.
 
-### 💰 [Wealth AI](https://github.com/daytonkristin/Wealth-AI)
-Parent infrastructure for financial alpha modules. Includes SteadyPathPay — a 30-minute reversal shield and institutional yield waterfall for digital asset management.
+## Product Pillars
+* **30-Minute Reversal Shield:** A programmable latency window allowing for transaction reversal before finality.
+* **Institutional Yield Waterfall:** Automated 60/25/15 revenue splitting (Yield/Security Fund/Ops).
+* **Vertex AI Integration:** Risk-scoring for outbound transactions.
+
+## Technical Stack
+* **Runtime:** Google Cloud Run (Serverless)
+* **Intelligence:** Gemini 1.5 Pro via Vertex AI
+* **Security:** AES-256 encrypted vaulting for service account keys.
+
+---
+
+## Key Technical Pillars
+* **Risk-Based Prioritization:** Logic-driven sorting of security vulnerabilities.
+* **Human-in-the-Loop Governance:** Mandatory human verification for high-impact security decisions.
+* **Automated Documentation:** Generation of audit-ready evidence for compliance.
+
+---
+
+## Progress Tracking
+- [x] Project Vision and Architecture defined
+- [x] Governance and Logic models established
+- [x] Python MVP for Network Discovery (`scanner.py`)
+- [x] Streamlit Compliance Dashboard (`app.py`)
+- [x] Logic-Based Risk Engine (`logic.py`)
+
+---
+
+## Disclosure
+All findings are reported responsibly and in accordance with program rules and coordinated disclosure practices.
+
+**For inquiries:** kristin.steadypath@gmail.com
 `Python` `Vertex AI` `Google Cloud Run` `AES-256`
 
 ### 🤖 [gem-platform](https://github.com/daytonkristin/gem-platform)
